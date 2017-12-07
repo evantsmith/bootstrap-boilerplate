@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-boilerplate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This HTML doc is my template for easily building custom html docs",
   "main": "index.js",
   "scripts": {
