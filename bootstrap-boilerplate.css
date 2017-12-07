@@ -1,0 +1,37 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+:root {
+font-size: 16px;
+}
+
+#top {
+    background-color: yellow;
+    height: 600px;
+}
+
+#middle {
+    background-color: blue;
+    height: 600px;
+}
+
+#bottom {
+    background-color: green;
+    height: 600px;
+}
+#row-1-t, #row-1-m, #row-1-b{
+    background-color: pink;
+    height: 33.4%;
+}
+
+#row-2-t, #row-2-m, #row-2-b{
+    background-color: red;
+    height: 33.3%;
+}
+
+#row-3-t, #row-3-m, #row-3-b{
+    background-color: purple;
+    height: 33.3%;
+}
